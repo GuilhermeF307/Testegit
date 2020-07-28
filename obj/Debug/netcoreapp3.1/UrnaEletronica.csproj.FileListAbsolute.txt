@@ -1,0 +1,13 @@
+C:\Users\guilh\Desktop\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.exe
+C:\Users\guilh\Desktop\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.deps.json
+C:\Users\guilh\Desktop\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.runtimeconfig.json
+C:\Users\guilh\Desktop\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.dll
+C:\Users\guilh\Desktop\UrnaEletronica\bin\Debug\netcoreapp3.1\UrnaEletronica.pdb
+C:\Users\guilh\Desktop\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.AssemblyInfo.cs
+C:\Users\guilh\Desktop\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.dll
+C:\Users\guilh\Desktop\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.pdb
+C:\Users\guilh\Desktop\UrnaEletronica\obj\Debug\netcoreapp3.1\UrnaEletronica.genruntimeconfig.cache
