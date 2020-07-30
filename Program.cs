@@ -25,7 +25,7 @@ namespace UrnaEletronica
            
             int V1P, V1S, V1D;
             //Variáveis com "P" no final são referentes ao presidente, equanto as com "S" são referentes ao Senador 
-            //e as com "D" são referentes ao Deputado Federal.
+            //e as com "D" são referentes ao Deputado Federalooooopa.
             
 
 
